@@ -3,7 +3,7 @@
   "appName": "محول الموقع إلي تطبيق",
   "webDir": "www",
   "server": {
-    "url": "https://smart-app-workbench.lovable.app/",
+    "url": "https://global-link-messenger.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
