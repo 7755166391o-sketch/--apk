@@ -3,7 +3,7 @@
   "appName": "محول الموقع إلي تطبيق",
   "webDir": "www",
   "server": {
-    "url": "https://qr-master-hub.lovable.app/",
+    "url": "https://smart-app-workbench.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [

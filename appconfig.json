@@ -2,7 +2,7 @@
   "appName": "محول الموقع إلي تطبيق",
   "appIcon": "",
   "packageName": "com.hamzanajjar.mhwlalmwqailyttbyq",
-  "versionCode": 2,
+  "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
   "splashEnabled": true,
@@ -54,7 +54,7 @@
   "animationType": "fade",
   "otaUpdates": true,
   "singleDeviceLock": false,
-  "websiteUrl": "https://qr-master-hub.lovable.app/",
-  "generatedAt": "2026-08-08T11:16:33.266Z",
+  "websiteUrl": "https://smart-app-workbench.lovable.app/",
+  "generatedAt": "2026-08-08T11:49:55.254Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }
