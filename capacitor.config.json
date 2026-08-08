@@ -1,5 +1,5 @@
 {
-  "appId": "com.lovable.mhwlalmwqailyttbyq",
+  "appId": "com.hamzanajjar.mhwlalmwqailyttbyq",
   "appName": "محول الموقع إلي تطبيق",
   "webDir": "www",
   "server": {
@@ -27,7 +27,7 @@
     "SplashScreen": {
       "backgroundColor": "#0f172a",
       "launchAutoHide": true,
-      "launchShowDuration": 1500,
+      "launchShowDuration": 400,
       "androidScaleType": "FIT_CENTER",
       "showSpinner": false
     }
