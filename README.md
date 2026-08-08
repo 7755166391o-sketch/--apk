@@ -3,10 +3,10 @@
 مشروع Web-to-App من **محول المواقع الذكي — المطور حمزة نجار**.
 
 - الموقع: https://inheritance-calculat-u22u.bolt.host/
-- اسم الحزمة: `com.hamzanajjar.app`
+- اسم الحزمة: `com.hamzanajjar.mhrkhsralirthalthky`
 - الأذونات المفعّلة: INTERNET، ACCESS_NETWORK_STATE، ACCESS_WIFI_STATE، CAMERA، READ_EXTERNAL_STORAGE، WRITE_EXTERNAL_STORAGE، READ_MEDIA_IMAGES، READ_MEDIA_VIDEO، VIBRATE، POST_NOTIFICATIONS، WAKE_LOCK، GET_ACCOUNTS
 
-## 🚀 الطريقة (١): APK مجاني تلقائياً عبر GitHub Actions
+## 🚀 الطريقة (١): APK تلقائياً عبر GitHub Actions
 
 1. أنشئ مستودعاً جديداً **Public** على GitHub.
 2. فك ضغط هذا الملف وارفع **محتوياته** (وليس ملف ZIP نفسه) عبر *Add file → Upload files* ثم *Commit*.

@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">محرّك حصر الإرث الذكي</string>
     <string name="title_activity_main">محرّك حصر الإرث الذكي</string>
-    <string name="package_name">com.hamzanajjar.app</string>
-    <string name="custom_url_scheme">com.hamzanajjar.app</string>
+    <string name="package_name">com.hamzanajjar.mhrkhsralirthalthky</string>
+    <string name="custom_url_scheme">com.hamzanajjar.mhrkhsralirthalthky</string>
 </resources>

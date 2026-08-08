@@ -1,11 +1,14 @@
 {
-  "appId": "com.hamzanajjar.app",
+  "appId": "com.hamzanajjar.mhrkhsralirthalthky",
   "appName": "محرّك حصر الإرث الذكي",
   "webDir": "www",
   "server": {
     "url": "https://inheritance-calculat-u22u.bolt.host/",
     "cleartext": false,
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "allowNavigation": [
+      "*"
+    ]
   },
   "android": {
     "allowMixedContent": false,
@@ -16,12 +19,17 @@
   },
   "plugins": {
     "CapacitorHttp": {
+      "enabled": false
+    },
+    "CapacitorCookies": {
       "enabled": true
     },
     "SplashScreen": {
       "backgroundColor": "#0f172a",
       "launchAutoHide": true,
-      "launchShowDuration": 1200
+      "launchShowDuration": 1500,
+      "androidScaleType": "FIT_CENTER",
+      "showSpinner": false
     }
   }
 }
