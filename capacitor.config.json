@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.mhwlalmwqailyttbyq",
-  "appName": "محول الموقع إلي تطبيق",
+  "appId": "com.hamzanajjar.mhwlalnsilaswtwaqay",
+  "appName": "محوّل النص إلى صوت واقعي",
   "webDir": "www",
   "server": {
-    "url": "https://global-link-messenger.lovable.app/",
+    "url": "https://talk-like-you-arabic.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
@@ -27,7 +27,7 @@
     "SplashScreen": {
       "backgroundColor": "#0f172a",
       "launchAutoHide": true,
-      "launchShowDuration": 400,
+      "launchShowDuration": 1500,
       "androidScaleType": "FIT_CENTER",
       "showSpinner": false
     }
