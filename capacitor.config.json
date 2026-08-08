@@ -1,35 +1,27 @@
 {
-  "appId": "com.mnshtsmymalmwaqa",
-  "appName": "منصة تصميم المواقع",
+  "appId": "com.hamzanajjar.app",
+  "appName": "محرّك حصر الإرث الذكي",
   "webDir": "www",
   "server": {
-    "url": "https://build-syria-genius.lovable.app/",
+    "url": "https://inheritance-calculat-u22u.bolt.host/",
     "cleartext": false,
-    "androidScheme": "https",
-    "allowNavigation": [
-      "*"
-    ]
+    "androidScheme": "https"
   },
   "android": {
     "allowMixedContent": false,
-    "backgroundColor": "#000000",
+    "backgroundColor": "#0f172a",
     "webContentsDebuggingEnabled": false,
     "captureInput": true,
     "useLegacyBridge": false
   },
   "plugins": {
     "CapacitorHttp": {
-      "enabled": false
-    },
-    "CapacitorCookies": {
       "enabled": true
     },
     "SplashScreen": {
-      "backgroundColor": "#000000",
+      "backgroundColor": "#0f172a",
       "launchAutoHide": true,
-      "launchShowDuration": 1500,
-      "androidScaleType": "FIT_CENTER",
-      "showSpinner": false
+      "launchShowDuration": 1200
     }
   }
 }
