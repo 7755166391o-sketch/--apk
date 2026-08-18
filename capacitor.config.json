@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.mhwlalnsilaswtwaqay",
-  "appName": "محوّل النص إلى صوت واقعي",
+  "appId": "com.hamzanajjar.mnshtsmymalmwaqa",
+  "appName": ".منصة تصميم المواقع",
   "webDir": "www",
   "server": {
-    "url": "https://talk-like-you-arabic.lovable.app/",
+    "url": "https://nexus-global-shield.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
