@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.mnshtsmymalmwaqa",
-  "appName": ".منصة تصميم المواقع",
+  "appId": "com.hamzanajjar.jmyaalttbyqatwalmwaqallmbrm",
+  "appName": "جميع التطبيقات والمواقع للمبرم",
   "webDir": "www",
   "server": {
-    "url": "https://nexus-global-shield.lovable.app/",
+    "url": "https://hwa-1.base44.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
