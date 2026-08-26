@@ -1,7 +1,7 @@
 {
-  "appName": "جميع التطبيقات والمواقع للمبرم",
+  "appName": "جميع التطبيقات والمواقع ",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.jmyaalttbyqatwalmwaqallmbrm",
+  "packageName": "com.hamzanajjar.jmyaalttbyqatwalmwaqa",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -55,6 +55,6 @@
   "otaUpdates": true,
   "singleDeviceLock": false,
   "websiteUrl": "https://hwa-1.base44.app/",
-  "generatedAt": "2026-08-23T08:54:46.811Z",
+  "generatedAt": "2026-08-26T12:14:01.287Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }
