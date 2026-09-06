@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.jmyaalttbyqatwalmwaqa",
-  "appName": "جميع التطبيقات والمواقع ",
+  "appId": "com.hamzanajjar.aalmhmzhalnjar",
+  "appName": "عالم حمزة النجار",
   "webDir": "www",
   "server": {
-    "url": "https://hwa-1.base44.app/",
+    "url": "https://hzn-1.base44.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [

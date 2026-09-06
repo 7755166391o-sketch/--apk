@@ -1,7 +1,7 @@
 {
-  "appName": "جميع التطبيقات والمواقع ",
+  "appName": "عالم حمزة النجار",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.jmyaalttbyqatwalmwaqa",
+  "packageName": "com.hamzanajjar.aalmhmzhalnjar",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -54,7 +54,15 @@
   "animationType": "fade",
   "otaUpdates": true,
   "singleDeviceLock": false,
-  "websiteUrl": "https://hwa-1.base44.app/",
-  "generatedAt": "2026-08-26T12:14:01.287Z",
+  "iconShape": "rounded",
+  "antiUninstall": false,
+  "nativePush": true,
+  "targetPhone": true,
+  "targetTablet": false,
+  "targetDesktop": false,
+  "targetAllDevices": true,
+  "authMethods": [],
+  "websiteUrl": "https://hzn-1.base44.app/",
+  "generatedAt": "2026-09-06T00:23:21.672Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }
